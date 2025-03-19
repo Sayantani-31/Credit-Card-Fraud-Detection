@@ -27,6 +27,6 @@ Each model's performance was compared using key metrics such as:
 - **Precision**  
 - **Recall**  
 - **F1-Score**  
-- **ROC-AUC Score**  
+
 
 Comparing the models under both resampling strategies provided insights into how different approaches affect fraud detection performance.  
